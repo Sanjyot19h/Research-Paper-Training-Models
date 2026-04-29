@@ -25,14 +25,14 @@ The goal is to assist in **early diagnosis**, improve accuracy, and reduce the w
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Language:** Python  
 - **Libraries:** TensorFlow / PyTorch, NumPy, OpenCV, Matplotlib  
 - **Tools:** Jupyter Notebook / Google Colab  
 
 ---
 
-## ⚙️ Methodology
+##  Methodology
 
 1. **Data Acquisition**  
    - CT scan images collected from LIDC-IDRI dataset  
@@ -59,7 +59,7 @@ The goal is to assist in **early diagnosis**, improve accuracy, and reduce the w
 
 ---
 
-## 📊 Results
+##  Results
 - Achieved strong classification performance on CT scan images  
 - Improved detection of cancerous cases using class balancing techniques  
 - Reduced false negatives (critical in medical diagnosis)  
